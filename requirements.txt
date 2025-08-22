@@ -1,5 +1,7 @@
 Flask
-flask-cors
+Flask-CORS
 torch
 joblib
+scikit-learn
+numpy
 gunicorn
